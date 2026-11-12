@@ -110,15 +110,15 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="https://cdn.pixabay.com/photo/2014/10/07/13/48/mountain-477832_1280.jpg" alt=""
-                    width="1355" height="435">
+                    width="1915" height="455">
             </div>
             <div class="carousel-item">
                 <img src="https://cdn.pixabay.com/photo/2014/10/07/13/48/mountain-477832_1280.jpg" alt=""
-                    width="1355" height="435">
+                    width="1915" height="455">
             </div>
             <div class="carousel-item">
                 <img src="https://cdn.pixabay.com/photo/2014/10/07/13/48/mountain-477832_1280.jpg" alt=""
-                    width="1355" height="435">
+                    width="1915" height="455">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
