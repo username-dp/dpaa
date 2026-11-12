@@ -109,16 +109,16 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-Zt8HmKXieo-GyIT9MmpGs7vX6ilFnlYm399jvspqw&s=10" alt="" width="1815"
-                    height="435">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY-Zt8HmKXieo-GyIT9MmpGs7vX6ilFnlYm399jvspqw&s=10" alt="" width="1915"
+                    height="455">
             </div>
             <div class="carousel-item">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQggm2RmI3uEAgKa_1ywSCJlpaK2Bp0g8Jv3v0vV0rT6A&s=10" alt="" width="1815"
-                    height="435">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQggm2RmI3uEAgKa_1ywSCJlpaK2Bp0g8Jv3v0vV0rT6A&s=10" alt="" width="1915"
+                    height="455">
             </div>
             <div class="carousel-item">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkncP0wDFj7vKHKV1Zv9mGXczaQsed-8NDetpQtMY1lw&s=10" alt="" width="1815"
-                    height="435">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkncP0wDFj7vKHKV1Zv9mGXczaQsed-8NDetpQtMY1lw&s=10" alt="" width="1915"
+                    height="455">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
